@@ -29,8 +29,6 @@ Iteration represents number of times model updated its parameters. Alpha control
 To increase the accuracy I have trained the model with 1500 iterations and alpha value of 0.15.
 both these settings are customizable easily in the code.
 
-I've included comments in the code to explain how we calculate the loss, apply the gradients, and update the weights and biases step by step.
-
 # Visualization
 
 To make things a bit more visual, the code also uses Matplotlib to show the network’s predictions. That way, you can see how the model is doing as it learns.
