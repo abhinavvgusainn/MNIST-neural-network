@@ -27,7 +27,7 @@ Training involves a basic forward pass to calculate predictions, and then a back
 
 Iteration represents number of times model updated its parameters. Alpha controls how aggressively the network updated its parameters.
 To increase the accuracy I have trained the model with 1500 iterations and alpha value of 0.15.
-both these settings are customizable easily in the code.
+both these settings are easily customizable in the code.
 
 # Visualization
 
